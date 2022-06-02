@@ -1,4 +1,4 @@
-# Opening garage gate using moble device
+# Opening garage gate using mobile device
 ### Here is a photo of the PCB with all the components:
 
 <p align="center">
